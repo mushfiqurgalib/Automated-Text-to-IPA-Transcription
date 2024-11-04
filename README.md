@@ -63,7 +63,7 @@ The notebook includes examples that demonstrate the accuracy of the IPA transcri
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
 
-## Fork the repository.
+Fork the repository.
 Create a new branch (git checkout -b feature/YourFeature).
 Make your changes and commit them (git commit -m 'Add new feature').
 Push to the branch (git push origin feature/YourFeature).
